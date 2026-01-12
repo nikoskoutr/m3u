@@ -11,14 +11,12 @@ https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_
 http://85.11.144.9:6651/tet
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD (fixed)
-https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://i.imgur.com/utv0rWj.png",ALPHA HD
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star"tvg-logo="https://i.imgur.com/zGpwulO.png",STAR HD 
-https://livestar.siliconweb.com/starvod/star4/star4.m3u8
+https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://i.imgur.com/BXmta4G.png",SKAI HD 
-https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+https://dai.google.com/linear/hls/pa/event/SmxC5WdPTr6kAs7dFLAa4g/stream/f2809c0f-9255-4b13-b462-3548c87c1d54:GRQ/variant/12ab7b394299953824464793d44e3efd/bandwidth/2234000.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open"tvg-logo="https://i.imgur.com/72GOh2Z.png",OPEN TV HD
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/55NSQ50.png",MAK. HD
